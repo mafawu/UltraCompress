@@ -12,7 +12,7 @@
 
 > 自定义暗色主题 · 双标签切换 · 实时进度跟踪
 
-![screenshot](Assets/avalonia-logo.ico)
+![screenshot](Assets/截图.png)
 
 ---
 
